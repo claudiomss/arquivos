@@ -101,7 +101,7 @@ if (!document.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://igorlemoes.com.br/files/whatsapp/style_whatsapp_091020_v_001.css';
+    link.href = 'https://github.com/claudiomss/arquivos/blob/main/ee.css';
     link.media = 'all';
     head.appendChild(link);
 }
